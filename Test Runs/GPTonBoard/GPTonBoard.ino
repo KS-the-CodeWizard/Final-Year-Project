@@ -5,7 +5,7 @@
 
 const char* ssid = "Galaxy F22 E9F4";
 const char* password = "KS1234321";
-const char* chatgpt_token = "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";
+const char* chatgpt_token = "sk-";
 char chatgpt_Q[256];
 
 String extractContent(String jsonResponse) {
